@@ -126,3 +126,4 @@ var myName = "jeongmu"
 var MyHobby = "game"
 print(myName, MyHobby)
 print("\(myName)'s hobby is \(MyHobby).")
+
